@@ -1,0 +1,12 @@
+.background-div {
+    display: flex;
+    justify-content: end;
+    background-color: #deedd6;
+    height: 220px;
+}
+
+.background-image {
+    height: auto;
+    position: relative;
+
+}
