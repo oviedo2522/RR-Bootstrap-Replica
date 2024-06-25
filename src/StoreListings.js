@@ -29,7 +29,7 @@ function StoreListings() {
                 <Col sm="1"></Col>
                 <Row >
                     <Col xs=".5" >
-                        <Image className='logo-pics' src="../Kroger-logo.png" roundedCircle />
+                        <Image className='logo-pics' src="../public/Kroger-logo.png" roundedCircle />
                     </Col>
                     <Col>
                         <h5 style={{ fontWeight: "bold" }}>Kroger</h5>

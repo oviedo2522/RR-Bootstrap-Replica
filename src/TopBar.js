@@ -7,7 +7,7 @@ function TextLinkExample() {
     return (
         <Navbar className="bg-body-tertiary">
             <Container>
-                <Navbar.Brand href="#home"><img src="../instacart screenshot.png" /></Navbar.Brand>
+             <Navbar.Brand href="#home"><img src="../instacart screenshot.png" alt="Instacart Logo" /></Navbar.Brand>
                 <Nav>
                     <Nav.Link href="#LogIn">Log In</Nav.Link>
                     <Button variant="success">Sign Up</Button>

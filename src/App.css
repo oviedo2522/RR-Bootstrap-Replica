@@ -32,7 +32,27 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.Banner-text {
+  margin: 45px;
+  text-align: left;
+}
+
+.logo-pics {
+  width: 90px;
+}
+
+.listings {
+  padding-top: 20px;
+}
+
+.listings-text {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
